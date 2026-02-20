@@ -1,4 +1,4 @@
-#📱 Flipkart Smartphone Market Analysis
+# 📱 Flipkart Smartphone Market Analysis
 ## End-to-End Web Data Pipeline: Scraping → Cleaning → Feature Engineering → EDA
 🚀 Project Overview
 
