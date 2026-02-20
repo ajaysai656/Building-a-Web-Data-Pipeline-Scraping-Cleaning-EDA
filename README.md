@@ -67,7 +67,7 @@ Ethical Note: Only publicly visible data was collected
 ## 🕷 Web Scraping Implementation
 
 Implemented inside:
-scraping_scripts/scrape_flipkart_smartphones.py
+
 Key Capabilities:
 
 Dynamic pagination handling
@@ -98,7 +98,7 @@ The script automatically merges all brand datasets into a final dataset.
 
 Final dataset:
 
-data/flipkart_smartphones_analysis_ready.csv
+https://github.com/ajaysai656/Building-a-Web-Data-Pipeline-Scraping-Cleaning-EDA/blob/main/flipkart_smartphones_cleaned_merged.csv.csv
 ## 🧹 Data Cleaning & Feature Engineering
 
 Performed in:
