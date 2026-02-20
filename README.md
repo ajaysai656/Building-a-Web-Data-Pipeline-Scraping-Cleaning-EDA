@@ -67,7 +67,7 @@ Ethical Note: Only publicly visible data was collected
 ## 🕷 Web Scraping Implementation
 
 Implemented inside:
-
+https://github.com/ajaysai656/Building-a-Web-Data-Pipeline-Scraping-Cleaning-EDA/tree/main/scraping_scripts
 Key Capabilities:
 
 Dynamic pagination handling
@@ -103,7 +103,7 @@ https://github.com/ajaysai656/Building-a-Web-Data-Pipeline-Scraping-Cleaning-EDA
 
 Performed in:
 
-notebooks/data_preprocessing_and_eda.ipynb
+
 Data Cleaning:
 
 Removed currency symbols and commas from price
